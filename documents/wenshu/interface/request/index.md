@@ -11,17 +11,17 @@
   ```javascript
   //只查询一级案由
   reason: {
-    reason_1: "知识产权与竞争纠纷",
-    reason_2: "",
-    reason_3: "",
-    reason_4: ""
+    "reason_1": "知识产权与竞争纠纷",
+    "reason_2": "",
+    "reason_3": "",
+    "reason_4": ""
   }
   //查询二级案由
   reason: {
-    reason_1: "知识产权与竞争纠纷",
-    reason_2: "不正当竞争纠纷",
-    reason_3: "",
-    reason_4: ""
+    "reason_1": "知识产权与竞争纠纷",
+    "reason_2": "不正当竞争纠纷",
+    "reason_3": "",
+    "reason_4": ""
   }
   ```
 
@@ -32,45 +32,48 @@
 
   法院由省、市和名称三种格式确定范围，格式如下：
 
-```javascript
-//只查询省：
-court:{
-  province: "广东省",
-  city: "",
-  name: ""
-}
-//查询省市：
-court:{
-  province: "广东省",
-  city: "深圳市",
-  name: ""
-}
-//查询名称：
-court:{
-  province: "",
-  city: "",
-  name: "广东省深圳市中级法院"
-}
-```
+  ```javascript
+  //只查询省：
+  court: {
+    "province": "广东省",
+    "city": "",
+    "name": ""
+  }
+  //查询省市：
+  court: {
+    "province": "广东省",
+    "city": "深圳市",
+    "name": ""
+  }
+  //查询名称：
+  court: {
+    "province": "",
+    "city": "",
+    "name": "广东省深圳市中级法院"
+  }
+  ```
+
+  ​
+
 
 - 请求数据格式示例：
 
-```javascript
-requestData = {
-  cmd:"reasonSearch",
-  reason: {
-    reason_1: "知识产权与竞争纠纷",
-    reason_2: "不正当竞争纠纷",
-    reason_3: "",
-    reason_4: ""
-  },
-  court:{
-    province: "广东省",
-    city: "深圳市",
-    name: ""
+  ```javascript
+  requestData = {
+    cmd:"reasonSearch",
+    reason: {
+      reason_1: "知识产权与竞争纠纷",
+      reason_2: "不正当竞争纠纷",
+      reason_3: "",
+      reason_4: ""
+    },
+    court:{
+      province: "广东省",
+      city: "深圳市",
+      name: ""
+    }
   }
-}
-```
+  ```
 
 ### 2.律师维度
 
