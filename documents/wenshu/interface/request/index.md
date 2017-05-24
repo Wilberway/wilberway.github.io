@@ -11,17 +11,17 @@
   ```javascript
   //只查询一级案由
   reason: {
-    "reason_1": "知识产权与竞争纠纷",
-    "reason_2": "",
-    "reason_3": "",
-    "reason_4": ""
+    reason_1: "知识产权与竞争纠纷",
+    reason_2: "",
+    reason_3: "",
+    reason_4: ""
   }
   //查询二级案由
   reason: {
-    "reason_1": "知识产权与竞争纠纷",
-    "reason_2": "不正当竞争纠纷",
-    "reason_3": "",
-    "reason_4": ""
+    reason_1: "知识产权与竞争纠纷",
+    reason_2: "不正当竞争纠纷",
+    reason_3: "",
+    reason_4: ""
   }
   ```
 
@@ -35,21 +35,21 @@
   ```javascript
   //只查询省：
   court: {
-    "province": "广东省",
-    "city": "",
-    "name": ""
+    province: "广东省",
+    city: "",
+    name: ""
   }
   //查询省市：
   court: {
-    "province": "广东省",
-    "city": "深圳市",
-    "name": ""
+    province: "广东省",
+    city: "深圳市",
+    name: ""
   }
   //查询名称：
   court: {
-    "province": "",
-    "city": "",
-    "name": "广东省深圳市中级法院"
+    province: "",
+    city: "",
+    name: "广东省深圳市中级法院"
   }
   ```
 
