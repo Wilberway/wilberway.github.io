@@ -10,14 +10,14 @@
 
   ```javascript
   //只查询一级案由
-  reason: {
+  reason = {
     reason_1: "知识产权与竞争纠纷",
     reason_2: "",
     reason_3: "",
     reason_4: ""
   }
   //查询二级案由
-  reason: {
+  reason = {
     reason_1: "知识产权与竞争纠纷",
     reason_2: "不正当竞争纠纷",
     reason_3: "",
@@ -34,19 +34,19 @@
 
   ```javascript
   //只查询省：
-  court: {
+  court = {
     province: "广东省",
     city: "",
     name: ""
   }
   //查询省市：
-  court: {
+  court = {
     province: "广东省",
     city: "深圳市",
     name: ""
   }
   //查询名称：
-  court: {
+  court = {
     province: "",
     city: "",
     name: "广东省深圳市中级法院"
@@ -88,7 +88,7 @@
   查询律师姓名，格式如下：
 
   ```javascript
-  lawyer: "张三"
+  lawyer = "张三"
   ```
 
 
