@@ -29,10 +29,11 @@
 
 *  精通前端“三大语言”，jQuery、Vue、Bootstrap、Nodejs等主流前后端框架，略懂PHP和Lua语言。
 
-* 能够熟练使用git/svn，sublime/atom/VSCode，等各类工具软件。
+* 能够熟练使用git/svn、sublime/atom/VSCode、Xshell/Virtual Box/FTP、Charles/Fiddler等各类工具软件。
 
-* 具有良好的英文能力，能够W3C/MDN/Stack Overflow/GitHub
+* 具有良好的英文能力，能够在W3C/MDN/Stack Overflow/GitHub上获得知识储备和技能提升。
 
+* 很强的解决问题能力和解决Bug的能力，熟练使用Chrome DevTools。
 
 ## OTHER SKILLS 其他能力
 
@@ -40,38 +41,11 @@
 
 * 较强的英文阅读能力，翻译过文档文献数万余字。
 
-* 相关技能广度，精通adobe系列软件。
+* 喜欢钻研Web相关技术，各类Web API、Chrome Extensions、W3C standers、Audio/Video、
 
-* 灵活的头脑，创新的理念和与时俱进的思维方式。对交互设计，UE，视觉传达有一定了解，对时尚趋势敏感，具有较强的设计品位和艺术鉴赏能力。
+* 相关技能广度，精通adobe系列软件。玩得一手好PS，做得一手好PPT。
 
-## EXPERIENCE 经验
-
-<!--某中医研究所的疾病识别系统
-    1.基于WPF开发，调试及后期维护。
-    2.目前已在研究所的落地广告机上正常运行。
-论坛管理员与编辑
-    1.负责论坛JS代码的开发与维护。
-    2.负责论坛SEO优化。
-交互式JPEG压缩算法可视化分级教学系统软件设计
-    1.掌握JPEG标准，了解JPEG的编码细节。
-    2.基于WinForm的软件开发。
-    3.实现完整的软件功能和设计与说明文档。
-团子生活网站建设
-    1.基于Semantic UI的响应式页面开发。
-    2.后期对于数据采集的研究。
-    3.使用Worktile更加规范的管理项目团队。
-移动端对时功能的研究
-    基于NTP协议和NITZ协议的研究。
-神经猫二次开发
-    在现有项目上对新需求进行功能性开发和UI设计。
-关于园区网的网络规划
-    园区网的拓扑结构设计与规划。
-日剧字幕组
-    负责统筹工作和字幕后期特效。
-汕头大学工学院院徽设计
-    获得三等奖。
-学校论坛站衫设计
-获得第二名。-->
+* 设计，心理学，音乐和美食。
 
 ## OCCUPATIONAL HISTORY 工作经历
 
