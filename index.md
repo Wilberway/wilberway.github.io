@@ -1,8 +1,6 @@
 
 # 欢迎~ This is wilberway!
 
-> (正在建设中。。。。)
-
 ## PERSONAL INFO 个人信息 
 
 姓名： 魏宇博
