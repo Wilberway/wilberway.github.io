@@ -61,6 +61,8 @@
 
     * cms后台的维护及功能性开发。
 
+    *发布两款Chrome Extensions。
+
     * 英文能力：为公司翻译文献《The Mathematics of Slots》，输出文档15篇，共计两万余字。
 
 ## OCCUPATIONAL HISTORY 工作经历
