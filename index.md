@@ -31,7 +31,7 @@
 
     * 熟悉ES2015+、sass、gulp，关注前端界相关框架和技术的发展趋势。
 
-    * 能够熟练使用git/svn、sublime/atom/VSCode、Xshell/Virtual Box/FTP、Charles/Fiddler等各类工具软件。
+    * 能够熟练使用git/svn、sublime/atom/VSCode、Xshell/Virtual Box/FTP、Charles/Fiddler、JSFiddle/JS Bin等各类工具软件。
 
     * 具有良好的英文能力，能够在W3C/MDN/Stack Overflow/GitHub上获得知识储备和技能提升。
 
@@ -39,11 +39,11 @@
 
 ## OTHER SKILLS 其他能力
 
-    * 突出的学习能力，适应能力和抗压能力。
+    * 突出的学习能力，适应能力和抗压能力。优秀的业务能力和创新精神。
 
     * 较强的英文阅读能力，翻译过文档文献数万余字。
 
-    * 喜欢钻研Web相关技术，各类Web API、Chrome Extensions、W3C standers、Audio/Video、
+    * 喜欢钻研Web相关技术，各类Web API、Chrome Extensions、W3C standard、Audio/Videod等等。
 
     * 相关技能广度，精通adobe系列软件，office系列软件以及markdown语法。玩得一手好PS，做得一手好PPT，写得一手好文档。
 
@@ -66,11 +66,12 @@
     * lua文件发布系统：
     
     客户端和服务端的开发，实现了图片压缩，文件的自动传输，SVN commit和外网环境的发布。
-    熟悉Gulp自动化构建工具和pm2管理服务端的Node服务。
+    使用Gulp自动化构建工具和pm2管理服务端的Node服务。
 
-    * cms后台的维护及功能性迭代:
+    * cms后台的功能开发及维护:
     
     整套后台使用Node+Express+Vue+Bootstrap，熟悉整个后台的工作流程，能够熟练使用Vue和Vue组件开发页面。
+    使用Vue Devtools调试Vue页面。
 
     * 公司前端技术的布道者：
     
@@ -104,7 +105,7 @@
 
     * 负责各中底层代码开发和工具插件开发。
 
-    * 参与前端通道的职级课程开，并进行了多场技术分享。
+    * 参与前端通道的职级课程开发，并进行了多场技术分享。
 
 
 ## INTERSHIP 实习经历
