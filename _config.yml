@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
   input: GFM
+theme: jekyll-theme-cayman
