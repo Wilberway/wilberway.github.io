@@ -41,9 +41,9 @@
 
 * 较强的英文阅读能力，翻译过文档文献数万余字。
 
-* 喜欢钻研Web相关技术，各类Web API、Chrome Extensions、W3C standard、Audio/Videod等等。
+* 喜欢钻研Web相关技术，各类Web API、Chrome Extensions、W3C standard、Audio/Video等等。
 
-* 相关技能广度，精通adobe系列软件，office系列软件以及markdown语法。玩得一手好PS，做得一手好PPT，写得一手好文档。
+* 相关技能：精通adobe系列软件，office系列软件以及markdown语法。玩得一手好PS，做得一手好PPT，写得一手好文档。
 
 * 设计，心理学，音乐，美食和英雄联盟。
 
