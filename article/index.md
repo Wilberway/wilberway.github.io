@@ -1,3 +1,3 @@
 # 我的文章
 
-[**The Mathematics of Slots**](/slots/)
+[**The Mathematics of Slots**](/article/slots/)
