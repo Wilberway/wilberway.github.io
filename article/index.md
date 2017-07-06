@@ -11,8 +11,11 @@
 
 [**Babel 6 小白使用指南**](/article/doc/2)
 
+[![正则表达式的基础知识][2]](/article/slots/)
+
 [**正则表达式的基础知识**](/article/doc/3)
 
 
 
 [1]: http://wilberway.com/article/images/art1.jpg
+[1]: http://wilberway.com/article/images/art2.jpg
