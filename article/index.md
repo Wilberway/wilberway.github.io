@@ -20,5 +20,5 @@
 
 
 [1]: http://wilberway.com/article/images/art1.jpg
-[2]: http://wilberway.com/article/images/art2.jpg
+[2]: http://wilberway.com/article/images/art2.jpg?v2
 [3]: http://wilberway.com/article/images/art3.jpg
