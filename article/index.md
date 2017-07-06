@@ -9,6 +9,8 @@
 
 [**浅谈Web Audio API**](/article/doc/1)
 
+[![Babel 6 小白使用指南][3]](/article/slots/)
+
 [**Babel 6 小白使用指南**](/article/doc/2)
 
 [![正则表达式的基础知识][2]](/article/slots/)
@@ -18,4 +20,5 @@
 
 
 [1]: http://wilberway.com/article/images/art1.jpg
-[1]: http://wilberway.com/article/images/art2.jpg
+[2]: http://wilberway.com/article/images/art2.jpg
+[3]: http://wilberway.com/article/images/art3.jpg
