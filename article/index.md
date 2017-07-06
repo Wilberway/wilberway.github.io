@@ -2,20 +2,19 @@
 
 正在建设中。。。
 
+[**The Mathematics of Slots**](/article/slots/)
 
 [![slots][1]](/article/slots/)
 
-[**The Mathematics of Slots**](/article/slots/)
-
 [**浅谈Web Audio API**](/article/doc/1)
-
-[![Babel 6 小白使用指南][3]](/article/slots/)
 
 [**Babel 6 小白使用指南**](/article/doc/2)
 
-[![正则表达式的基础知识][2]](/article/slots/)
+[![Babel 6 小白使用指南][3]](/article/doc/2)
 
 [**正则表达式的基础知识**](/article/doc/3)
+
+[![正则表达式的基础知识][2]](/article/doc/3)
 
 
 
