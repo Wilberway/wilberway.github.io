@@ -18,7 +18,12 @@
 
 [![浅谈Web Audio API][4]](/article/doc/4)
 
+[**JavaScript里的原型**](/article/doc/5)
+
+[![JavaScript里的原型][4]](/article/doc/5)
+
 [1]: http://wilberway.com/article/images/art1.jpg
 [2]: http://wilberway.com/article/images/art2.jpg?v2
 [3]: http://wilberway.com/article/images/art3.jpg
 [4]: http://wilberway.com/article/images/art4.jpg
+[5]: http://wilberway.com/article/images/art5.jpg
