@@ -2,8 +2,6 @@
 
 [**The Mathematics of Slots**](正在建设中。。。)
 
-[**关于前端的那些知识**](/documents/overview/)
-
 [![slots][1]](/article/slots/)
 
 [**Babel 6 小白使用指南**](/article/doc/2)
