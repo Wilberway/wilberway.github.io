@@ -1,8 +1,8 @@
 # 我的文章
 
-正在建设中。。。
+[**The Mathematics of Slots**](正在建设中。。。)
 
-[**The Mathematics of Slots**](/article/slots/)
+[**关于前端的那些知识**](/documents/overview/)
 
 [![slots][1]](/article/slots/)
 
