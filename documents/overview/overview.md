@@ -1,6 +1,6 @@
 # 前端的发展和趋势
 
-##回顾
+## 回顾
 
 * 组件被用于构建复杂的UI，并由单一的文件构成，文件中同时包含HTML、CSS和JS。
 * React、Redux、Webpack、ECMAScript2015和Babel被广泛采用。
