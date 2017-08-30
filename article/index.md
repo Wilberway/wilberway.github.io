@@ -20,8 +20,13 @@
 
 [![JavaScript里的原型][5]](/article/doc/5)
 
+[**在网络森林里隐藏好自己**](/article/doc/6)
+
+[![在网络森林里隐藏好自己][6]](/article/doc/6)
+
 [1]: http://wilberway.com/article/images/art1.jpg
 [2]: http://wilberway.com/article/images/art2.jpg?v2
 [3]: http://wilberway.com/article/images/art3.jpg
 [4]: http://wilberway.com/article/images/art4.jpg
 [5]: http://wilberway.com/article/images/art5.jpg
+[6]: http://wilberway.com/article/images/art6.jpg
