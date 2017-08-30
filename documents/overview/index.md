@@ -11,3 +11,9 @@
 [**5.ECMAScript 6 里面的私有变量**](/documents/overview/article4)
 
 [**6.关于Event Loop**](/documents/overview/article5)
+
+[**7.关于Nodejs你要知道的几件事**](/documents/overview/article6)
+
+[**8.关于javascript的垃圾回收**](/documents/overview/article7)
+
+
