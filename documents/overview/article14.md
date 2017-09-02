@@ -60,6 +60,7 @@ var age = 22;
 ```
 
 那么它的存储结构如下图：
+
 ![图表1][1]
 
 栈区包括了 变量的标识符和变量的值。
@@ -164,6 +165,7 @@ console.log(a.age);// 22
 
 console.log(a == b);// true
 ```
+
 ![图表5][5]
 
 [1]: https://sfault-image.b0.upaiyun.com/148/090/1480902711-55608eac1ef9b_articlex
