@@ -16,4 +16,16 @@
 
 [**8.关于javascript的垃圾回收**](/documents/overview/article7)
 
+[**9.函数式编程（一）**](/documents/overview/article8) 
 
+[**10.函数式编程（二）**](/documents/overview/article9) 
+
+[**11.函数式编程（三）**](/documents/overview/article10) 
+
+[**12.函数式编程（四）**](/documents/overview/article11) 
+
+[**13.函数式编程（五）**](/documents/overview/article12) 
+
+[**14.函数式编程（六）**](/documents/overview/article13) 
+
+[**15.JavaScript的基本类型，引用类型，简单赋值，对象引用**](/documents/overview/article14) 
