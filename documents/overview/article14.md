@@ -170,6 +170,6 @@ console.log(a == b);// true
 
 [1]: https://sfault-image.b0.upaiyun.com/148/090/1480902711-55608eac1ef9b_articlex
 [2]: https://sfault-image.b0.upaiyun.com/130/364/1303646121-5560990755326_articlex
-[2]: https://sfault-image.b0.upaiyun.com/327/840/3278409663-55609d5ead9bd_articlex
+[3]: https://sfault-image.b0.upaiyun.com/327/840/3278409663-55609d5ead9bd_articlex
 [4]: https://sfault-image.b0.upaiyun.com/226/792/2267925907-556199deeed58_articlex
 [5]: https://sfault-image.b0.upaiyun.com/205/203/2052038946-55619ed80a85e_articlex
