@@ -1,7 +1,5 @@
 # Javascript 基础问题
 
-[TOC]
-
 ## 类型判断
 
 Javascript 的类型判断其实是个挺折磨人的话题, 不然也不会有 Typescript 出现了. 在类型判断的问题上, 基础上 推荐阅读 lodash 的源代码.
