@@ -34,4 +34,4 @@
 [4]: http://wilberway.com/article/images/art4.jpg
 [5]: http://wilberway.com/article/images/art5.jpg
 [6]: http://wilberway.com/article/images/art6.jpg
-[6]: http://wilberway.com/article/images/art7.jpg
+[7]: http://wilberway.com/article/images/art7.jpg
