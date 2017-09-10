@@ -18,7 +18,7 @@
 
 [**9.JavaScript的基本类型，引用类型，简单赋值，对象引用**](/documents/overview/article14) 
 
-[**9.JavaScript的基本类型，引用类型，简单赋值，对象引用**](/documents/overview/article14) 
+[**10.Cookie/Session机制详解**](/documents/overview/article17) 
 
 # 函数式编程
 
