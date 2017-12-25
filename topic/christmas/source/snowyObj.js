@@ -247,7 +247,7 @@ function Snowy(options){
                 ret = (Math.random() - 1) * docEle.height;
                 break;
             case 'r':
-                ret = 3 + (Math.random() * 4);
+                ret = 2 + (Math.random() * 2);
                 break;
             case 'fnx':
                 random = 27 + Math.random() * 100;
