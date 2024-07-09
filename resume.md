@@ -3,7 +3,7 @@
 
 ## PERSONAL INFO 个人信息 
 
-![avatar](https://www.wilberwei.com/avatar_wilberwei.jpg)
+![avatar](https://www.wilberwei.com/avatar_wilberwei_300.png)
 
 姓名： 魏宇博
 
