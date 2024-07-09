@@ -3,6 +3,8 @@
 
 ## PERSONAL INFO 个人信息 
 
+![/avatar_wilberwei.jpg](头像)
+
 姓名： 魏宇博
 
 性别： 男
