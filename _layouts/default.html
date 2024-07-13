@@ -8,9 +8,35 @@
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include file.ext %}
   </head>
   <body>
     <section class="main-content">
+      {% if page.tags %}
+        {% for tag in page.tags %}
+          <div id="jsmind_container"></div>
+          <script type="text/javascript">
+            var mind = {
+              /* 元数据，定义思维导图的名称、作者、版本等信息 */
+              "meta":{
+                  "name":"{{ page.title }}",
+                  "author":"wilberwei",
+              },
+              /* 数据格式声明 */
+              "format":"freemind",
+              /* 数据内容 */
+              "data": "{{ content }}"
+            }
+            var options = {                   // options 将在下一章中详细介绍
+                container:'jsmind_container', // [必选] 容器的ID，或者为容器的对象
+                editable:true,                // [可选] 是否启用编辑
+                theme:'orange'                // [可选] 主题
+            };
+            var jm = new jsMind(options);
+            jm.show(data);
+          </script>
+        {% endfor %}
+      {% endif %}
       {{ content }}
 
       <footer class="site-footer">

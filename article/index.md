@@ -28,10 +28,10 @@
 
 [![5分钟看完ECMAScript 2016][7]](/article/doc/7)
 
-[1]: http://wilberway.com/article/images/art1.jpg
-[2]: http://wilberway.com/article/images/art2.jpg?v2
-[3]: http://wilberway.com/article/images/art3.jpg
-[4]: http://wilberway.com/article/images/art4.jpg
-[5]: http://wilberway.com/article/images/art5.jpg
-[6]: http://wilberway.com/article/images/art6.jpg
-[7]: http://wilberway.com/article/images/art7.jpg
+[1]: ./images/art1.jpg
+[2]: ./images/art2.jpg?v2
+[3]: ./images/art3.jpg
+[4]: ./images/art4.jpg
+[5]: ./images/art5.jpg
+[6]: ./images/art6.jpg
+[7]: ./images/art7.jpg

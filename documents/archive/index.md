@@ -33,12 +33,3 @@
 [**函数式编程（五）**](/documents/overview/article2_5) 
 
 [**函数式编程（六）**](/documents/overview/article2_6) 
-
-# Node.js
-
-[**Eleme Node-Interview（一）Js基础问题**](/documents/overview/article3_1) 
-
-[**Eleme Node-Interview（二）模块**](/documents/overview/article3_2) 
-
-# utils
-
