@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+site: 
+  url: http://www.wilberwei.com/resume
+  repository_url: https://github.com/Wilberway/wilberway.github.io
