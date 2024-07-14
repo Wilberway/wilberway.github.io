@@ -12,33 +12,7 @@
   </head>
   <body>
     <section class="main-content">
-      {% if page.tags %}
-        {% for tag in page.tags %}
-          <div id="jsmind_container"></div>
-          <script type="text/javascript">
-            var mind = {
-              /* 元数据，定义思维导图的名称、作者、版本等信息 */
-              "meta":{
-                  "name":"{{ page.title }}",
-                  "author":"wilberwei",
-              },
-              /* 数据格式声明 */
-              "format":"freemind",
-              /* 数据内容 */
-              "data": `{{ content }}`
-            }
-            var options = {                   // options 将在下一章中详细介绍
-                container:'jsmind_container', // [必选] 容器的ID，或者为容器的对象
-                editable:true,                // [可选] 是否启用编辑
-                theme:'orange'                // [可选] 主题
-            };
-            var jm = new jsMind(options);
-            jm.show(data);
-          </script>
-        {% endfor %}
-      {% endif %}
       {{ content }}
-
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="{{ site.info.repository_url }}">This page</a> is maintained by wilberwei.</span>
       </footer>
