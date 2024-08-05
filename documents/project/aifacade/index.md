@@ -7,8 +7,11 @@
 * 通信协议：ProtoBuf, RPC, HTTP/HTTPS
 
 ## 架构图
+服务架构：
+![system][1]
 
-![aifacade][1]
+引擎分发系统架构：
+![aifacade][2]
 
-
-[1]: ./aifacade.jpg
+[1]: ./system.jpg
+[2]: ./aifacade.jpg
